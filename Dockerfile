@@ -19,11 +19,15 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Esto descarga el modelo en español al construir la imagen
 RUN python3 -c "from paddleocr import PaddleOCR; PaddleOCR(lang='es', use_textline_orientation=True)"
 
-# 4. Copiar tu código
-COPY main.py .
+# 4. Copiar todo el código fuente
+COPY . .
 
-# 5. Exponer puerto
+# 5. Crear usuario no root para mayor seguridad
+RUN useradd -m appuser
+USER appuser
+
+# 6. Exponer puerto
 EXPOSE 8000
 
-# 6. Ejecutar la API
+# 7. Ejecutar la API
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
