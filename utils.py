@@ -1,14 +1,14 @@
 import logging
 import os
+from config import settings  # <-- Importa settings
 
-
-def setup_logger(log_file="ocr_service.log"):
-    import os
+def setup_logger(log_file=None):
+    if log_file is None:
+        log_file = settings.LOG_FILE  # Usa el valor de config.py
     log_path = os.path.abspath(log_file)
     log_dir = os.path.dirname(log_path)
     if log_dir and not os.path.exists(log_dir):
         os.makedirs(log_dir, exist_ok=True)
-    # Crea el archivo si no existe
     if not os.path.exists(log_path):
         with open(log_path, "a", encoding="utf-8"):
             pass
