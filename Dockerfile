@@ -24,6 +24,7 @@ COPY . .
 
 # 5. Crear usuario no root para mayor seguridad
 RUN useradd -m appuser
+RUN chown -R appuser:appuser /app
 USER appuser
 
 # 6. Exponer puerto
