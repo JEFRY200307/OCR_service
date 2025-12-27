@@ -1,0 +1,12 @@
+services:
+  ocr-api:
+    build: .
+    container_name: peri_ocr
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      # Opcional: Montar código para desarrollo live (hot-reload no activado por defecto en Dockerfile, pero útil tener acceso)
+      - .:/app
+    environment:
+      - DISABLE_MODEL_SOURCE_CHECK=True

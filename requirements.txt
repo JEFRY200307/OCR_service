@@ -1,0 +1,14 @@
+# API y Servidor
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.9
+
+# Analisis
+numpy==1.26.4
+
+# Motor OCR (Versión CPU estable)
+paddlepaddle==3.2.2
+paddleocr==3.3.2
+
+# Visión por Computador
+opencv-python-headless==4.9.0.80

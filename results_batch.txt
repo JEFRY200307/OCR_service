@@ -1,0 +1,662 @@
+Archivo: B1.jpeg
+{
+  "filename": "B1.jpeg",
+  "raw_text": "I\nCOMERCiAL\nAlicia &\nJesús\nDe: Yomer Michael Hurtado Reyes\nt.1\nEXCLUSIVIDAD EN BROCHES, BOTONES, HOJALILLOS, HEBILLAS, REMACHES,\nARGOLLAS, CASQUILLOS, MAQUINAS FORRADORAS, TROQUELES\nHACEMOS PLACAS, BOTON, REMACHE CON TU MARCA- PRECIOS POR MAYOR Y MENOR\nD. F.: Jr. Unánue N° 1568 -Tda. 106 - B - \"Galeria Leo\"- La Victoria- Lima - Lima\nPagos por: TransferenciaBCP-YAPE\n:938240705\nENVIOS A TODOS LOS DEPARTAMENTOS DEL PERÚ\nR.U.C. 10406859067\nBOLETADE VENTA\nDIA\nMESAÑO«\n0002 No 001438\nC1\nC2\nSeñor(es):\nD.N.I..\n…n\nDirección:\nDESCRIPCION\nPUNIT.\nIMPORTE\nCANT.\nG\n7r\n2\n192\n;\nUNA VEZ SALIDA LA MERCADERIA NO HAY CAMBIO NI DEVOLUCION DE DINERO\nIMPRENTA\nGracias\nTOTAL'SI\nR.U.C. 10423141790\n135\nDer Gonzabs Gómet Cristóbal Paobo\npor su.\n(Soles)\n; serie '0002 del 0001 al 4000\npreferencia\nAUT,; 14959019023 - FA.: 10/07/2023\nUSUARIO",
+  "meta": {
+    "filename": "B1.jpeg",
+    "category": "comprobante_fisico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "10406859067",
+    "tipo_documento": null,
+    "serie": "renci",
+    "numero": "938240705",
+    "fecha_emision": "10/07/2023",
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "COMERCiAL",
+    "Alicia &",
+    "Jesús",
+    "De: Yomer Michael Hurtado Reyes",
+    "EXCLUSIVIDAD EN BROCHES, BOTONES, HOJALILLOS, HEBILLAS, REMACHES,",
+    "ARGOLLAS, CASQUILLOS, MAQUINAS FORRADORAS, TROQUELES",
+    "HACEMOS PLACAS, BOTON, REMACHE CON TU MARCA- PRECIOS POR MAYOR Y MENOR",
+    "Pagos por: TransferenciaBCP-YAPE",
+    "ENVIOS A TODOS LOS DEPARTAMENTOS DEL PERÚ",
+    "DIA",
+    "MESAÑO«",
+    "Señor(es):",
+    "Dirección:",
+    "PUNIT.",
+    "UNA VEZ SALIDA LA MERCADERIA NO HAY CAMBIO NI DEVOLUCION DE DINERO",
+    "IMPRENTA",
+    "Gracias",
+    "Der Gonzabs Gómet Cristóbal Paobo",
+    "por su.",
+    "(Soles)",
+    "; serie '0002 del 0001 al 4000",
+    "preferencia",
+    "AUT,; 14959019023 - FA.: 10/07/2023",
+    "USUARIO"
+  ]
+}
+========================================
+Archivo: B2.jpeg
+{
+  "filename": "B2.jpeg",
+  "raw_text": "detà de Ventà Electronica - Inpresion :.\nhllps//wwI.sunat.god.pe/ol-ti-itemisionbolelâ/emitir.do?ačlio\nBOLEta DE VENTA ELECTRQNicA\nBRYAL ASOCIADOS S.A.C.\nRuc: 20600937023\nJR. ANTONIO BAZO 714\nE801-746\nLA VICTORIA - LIMA - LIMA\nFecha de Vendimiento\nFecha de Emisión\n:.\n: 03/10/2023\nSeñor(es)\nAndreA Angels AguIlar\nONI\nHUARANGA\nTipo de Moneda.\n:73226415\n; soles\nObservación\nFORMA DE PAGO:\n:\nTRANSFERENCIA\nValor\nCantidad\nUnidad\nDescuento(*)\nImporte de\nICBPER\nCódigo Descripción\nMedida\nUnitario(*)\nVenta(**)\n30.00\nCIERRE NYLON\n1.4124294\n0.00 50.00000076,\n0.00\nUNIDAD\nIP41\nINVISIBLE 60 CM\n1.3771187\n0.00 13.000000528\n0.00\n8.00\nUNIDAD\nIP41\nCIERRE NYLON\nINVISIBLE 50 CM\nOtros Cargos :\nS/0.00\n1\n,\nOtros Tributos :\nS/0.00\nICBPER :\n$/0.00\nImporte Total :\n1.\nS/63.00\nSON: SESENTA Y TRES Y 00/100 SOLES\n;\nOp. Gravada :\nS/ 53.39\n(*) Sin Impuestos.\nÕp. .\n(**) Incluye impuestos, de ser Op. Gravada.\nS/ 0.00 .\nExonerada\n;\nOp. Inafecta :\n5/ 0.00\nISC:\nS/ 0.00\nIGV :\n5/ 9.61\nICBPER :\n$/ 0.00\nOtros Cargos :\n5/ 0.00\nS/ 0.00\nOtros Tributos :\nMonto de;\n$/ 0.00\nRedondeo\nS/ 63.00\nImporte Total :\nEsta es una representación Impresa de la Boleta de Venta Electrónica, generada en el Sistema de la SUNAT. E\nEmisor Electrónico puede verificara ulizando su clave So, el Adquirente o Usuano puede consultar su validez\nen SUNAt Virtual: www.sunat. gob.pe, en Opciones sin Cave SOL/ Consulta de Validez del CPE.\n3/)0/2",
+  "meta": {
+    "filename": "B2.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20600937023",
+    "tipo_documento": null,
+    "serie": "YAL",
+    "numero": "2060093702",
+    "fecha_emision": "03/10/2023",
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": 53.39,
+      "igv": 9.61,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "BRYAL ASOCIADOS S.A.C.",
+    "JR. ANTONIO BAZO 714",
+    "LA VICTORIA - LIMA - LIMA",
+    "Señor(es)",
+    "AndreA Angels AguIlar",
+    "ONI",
+    "HUARANGA",
+    "; soles",
+    "Observación",
+    "FORMA DE PAGO:",
+    "TRANSFERENCIA",
+    "Descuento(*)",
+    "ICBPER",
+    "Código Descripción",
+    "Unitario(*)",
+    "Venta(**)",
+    "CIERRE NYLON",
+    "INVISIBLE 60 CM",
+    "CIERRE NYLON",
+    "INVISIBLE 50 CM",
+    "Otros Cargos :",
+    "Otros Tributos :",
+    "ICBPER :",
+    "(*) Sin Impuestos.",
+    "Exonerada",
+    "ISC:",
+    "ICBPER :",
+    "Otros Cargos :",
+    "Otros Tributos :",
+    "Monto de;",
+    "Redondeo",
+    "Emisor Electrónico puede verificara ulizando su clave So, el Adquirente o Usuano puede consultar su validez",
+    "en SUNAt Virtual: www.sunat. gob.pe, en Opciones sin Cave SOL/ Consulta de Validez del CPE."
+  ]
+}
+========================================
+Archivo: B3.jpeg
+{
+  "filename": "B3.jpeg",
+  "raw_text": "COMERCIAL\"LOPEZ\"\nF\nDe: Henry López Zavala.\nVENTA DE CRRES NACALES E IPORTADOSENTRACTOR NYLON DORADO, HOS ELASTICS,\nGAPEGA, CADE RDONEATICDO, TOCHESAS, MERCERIN GEEL\nPOR MAYOR YMENOR\nIr. Antonio Bazo 726 Int. 101 - La Victoria - Lima\nR.U.C. 10103615297\nD955 468 095 / 941 719 081 / 947 751 627\nNOTA DE PEDIDO\nDIAMESANO\n171023\nN 010716\n7\nSeñor(es):\nDirección:\n,Dòc, Ident.:.\nCANT.\nDESCRIPCIÓN\nP.UNIT.\nIMPORTE\n260.\nTM4\n60L\n40\n584 45-\n.. ..\ni\n2I\n,\n\nHo\nI\n-\nY\n8\ne\nJ\n{\nT\nTOTAL S/.\nCANCELADO",
+  "meta": {
+    "filename": "B3.jpeg",
+    "category": "comprobante_fisico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "10103615297",
+    "tipo_documento": null,
+    "serie": "azo",
+    "numero": "1010361529",
+    "fecha_emision": null,
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "COMERCIAL\"LOPEZ\"",
+    "De: Henry López Zavala.",
+    "VENTA DE CRRES NACALES E IPORTADOSENTRACTOR NYLON DORADO, HOS ELASTICS,",
+    "GAPEGA, CADE RDONEATICDO, TOCHESAS, MERCERIN GEEL",
+    "POR MAYOR YMENOR",
+    "Ir. Antonio Bazo 726 Int. 101 - La Victoria - Lima",
+    "NOTA DE PEDIDO",
+    "DIAMESANO",
+    "Señor(es):",
+    "Dirección:",
+    ",Dòc, Ident.:.",
+    "DESCRIPCIÓN"
+  ]
+}
+========================================
+Archivo: B4.jpeg
+{
+  "filename": "B4.jpeg",
+  "raw_text": "BIOTEX PERÚ S.A,C\nNOTA DE PEDIDO\nAv. Separadora Industrial N* 507 - 3er piso\nUrb. Los Álamos - Ate - Lima + Lima\n: N° 002738\nENTRETELAS.\nFECHA\nBIOTEXTIL\nBORDADOS\nTELA NOTEX\nHOMBRERAS\n0g\n0\n9\n12\n-\nPELÓN\n1\nCENEFA\nADHESIVOS\nSeñores):\nDirección:\nR.U.C.:\nCoNd. De venTA\nAgENciA DE transporte .\n.\nCANT\nUNID. DE\nCÓDIGO\nDESCRIPCIÓN\nP.UNIT.\nImporte:\nMEDIDA\n2\nThe\nS5402\n-\na\nTOTAK\nVENDEDOR\nJEFE DE ALMACÉN\nVB* SUPERVISOR\nES CONFORME\nFIRMA Y SELLO COMPRADOR\n-\nTOTAY\nVENDEDOR\nJEFE DE ALMACÉN\nV°B* SUPERVISOR\nES CONF\nFIRMAY SEL",
+  "meta": {
+    "filename": "B4.jpeg",
+    "category": "comprobante_fisico"
+  },
+  "data_sunat": {
+    "ruc_emisor": null,
+    "tipo_documento": null,
+    "serie": "Los",
+    "numero": "002738",
+    "fecha_emision": null,
+    "moneda": null,
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "BIOTEX PERÚ S.A,C",
+    "NOTA DE PEDIDO",
+    "Av. Separadora Industrial N* 507 - 3er piso",
+    "Urb. Los Álamos - Ate - Lima + Lima",
+    "ENTRETELAS.",
+    "BIOTEXTIL",
+    "BORDADOS",
+    "TELA NOTEX",
+    "HOMBRERAS",
+    "PELÓN",
+    "CENEFA",
+    "ADHESIVOS",
+    "Señores):",
+    "Dirección:",
+    "CoNd. De venTA",
+    "AgENciA DE transporte .",
+    "UNID. DE",
+    "CÓDIGO",
+    "DESCRIPCIÓN",
+    "The",
+    "TOTAK",
+    "JEFE DE ALMACÉN",
+    "ES CONFORME",
+    "TOTAY",
+    "JEFE DE ALMACÉN",
+    "ES CONF"
+  ]
+}
+========================================
+Archivo: B5.jpeg
+{
+  "filename": "B5.jpeg",
+  "raw_text": "TEXTIL\n00\nCONTROL INTERNO\nDe Bermrdh Fuentes Melimlez\nVENTAS POR MAYOR Y MIENOR\nJe AodnJr oan\nN.\n000872\nFTeryFraneaJereyEstampadoRip Colores\n.Fecha.2202.2\nCONTADO\nSeñor (es}:\nCREDITO\nDirección:\nw…n\nCANT.\nDESCRIPCION\nP. UNIT.\nIMPORTE\n1.1s k4. onay Nego\nA\n110. 42.T\nF\nTOTAL SI\nDespachado por\nReclbi Conforme",
+  "meta": {
+    "filename": "B5.jpeg",
+    "category": "comprobante_fisico"
+  },
+  "data_sunat": {
+    "ruc_emisor": null,
+    "tipo_documento": null,
+    "serie": "rmrdh",
+    "numero": "000872",
+    "fecha_emision": null,
+    "moneda": null,
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "TEXTIL",
+    "CONTROL INTERNO",
+    "De Bermrdh Fuentes Melimlez",
+    "VENTAS POR MAYOR Y MIENOR",
+    "Je AodnJr oan",
+    "FTeryFraneaJereyEstampadoRip Colores",
+    "Señor (es}:",
+    "Dirección:",
+    "P. UNIT.",
+    "1.1s k4. onay Nego",
+    "Despachado por",
+    "Reclbi Conforme"
+  ]
+}
+========================================
+Archivo: F1.jpeg
+{
+  "filename": "F1.jpeg",
+  "raw_text": "4\nERCATE\nDISTRIBUIDORA PERCATEX S.A\nRUC: 20657910159\n-.\n JR. HIPOLITO UNANUE NRON1532 INT (104-\n(INT. 104 - 105- 106/IER. PISO)LMA\nLIMA -LAVICTORIA\nTelf: (01) 582-1839/ 932 687 419 / 998\n221 634\nFACtURA ELECtRóNiCA\nF001 -00012638:\nPER COMPANY SOCIEDAD ANONIN'A CERRADA - FERI\nCOMPANY S.A.d.*,- -\nLT. 1O MZ E1 AH SIMON BOLIVAR- CIMA LYMA PUENTE\nPECRA\nd •\nRUC20602250183\n!13:01/2024'\nHORA\n18 27\nFECHA:\ne\nUNM.\nO0D.\nP.iN. DSCTQ\nCant.\nIMPORTE\nDESCR PCION\n5.50\n20\nL\nIF10\n0.00\n110.00\nTRICOTEX GRUESO NEGRO ANCHO 1.50\nMTSX 100 MTs,\nTOTAL A PAGAR\n(8/)\n110.00\nTOTAL GRAVADO\nBBB\n93.22\nTOTAL I. QV.\n,16.78\nIMPORTE TOTAL\n110.00\nSON. CIENTO DIEZ CON OO TOO SOLES :\nVENDEDOR PERCATEX2\n.Observadiones",
+  "meta": {
+    "filename": "F1.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20657910159",
+    "tipo_documento": "01",
+    "serie": "IDORA",
+    "numero": "2065791015",
+    "fecha_emision": null,
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": 16.78
+    }
+  },
+  "items_detalle": [
+    "ERCATE",
+    "DISTRIBUIDORA PERCATEX S.A",
+    "(INT. 104 - 105- 106/IER. PISO)LMA",
+    "LIMA -LAVICTORIA",
+    "Telf: (01) 582-1839/ 932 687 419 / 998",
+    "PER COMPANY SOCIEDAD ANONIN'A CERRADA - FERI",
+    "COMPANY S.A.d.*,- -",
+    "LT. 1O MZ E1 AH SIMON BOLIVAR- CIMA LYMA PUENTE",
+    "PECRA",
+    "HORA",
+    "UNM.",
+    "P.iN. DSCTQ",
+    "DESCR PCION",
+    "TRICOTEX GRUESO NEGRO ANCHO 1.50",
+    "MTSX 100 MTs,",
+    "BBB",
+    ".Observadiones"
+  ]
+}
+========================================
+Archivo: F2.jpeg
+{
+  "filename": "F2.jpeg",
+  "raw_text": "e.\nTAI LOY\nTAI 10T S.A.\n•***\n1\nRU€:20100049181\nOfio.Prinoipal:d. Mariann Odioo 153\nno Odioio 153\nIto:Surquillo\nUrb.Mirarloies.\nProv:Limi\nListrito:Surqllio\nDto:Luma\n299\nDireDOion;AV, LARcO 292-299\nVILDA\nDistritoIMIRAFLORES PrOV:LIMA\nDOEO:LIMA\n3 9/X:\nRUC CLIENTE:20602250483 S/N:\nICTRONICA\nB7441\nFACTURA\nELECTRONICA\nANY BOCIEDAD ANONIMA\nF558-0287441\nRAZ.SOCIAL:\nPERI COMDANY S.A.C.\n: PERI\nCOMPaNY SoCIELIAD AnOnIMA\nCERRA DA\nFERI COMPANYS.A.C.\nHIL 16MM ALCO UNIV VIH\n601\n0581305755\n9.00\n86.57\n7766SS PIONER A4 2 ANIL 16MM BLCO UNIV VIN\nEUBTOTAL.:\n73.45\nP;\n9.00\n86,67\nr.GravadA:\n73.45\n9.63\nUND.\nEXONRADA:\n.00\nSUBTOTAL. :\n73.45\n73.45\nINAFECTA\n1\n.00\nop.Gravada:\nGRATUITA\n:\n.00\nOP.EXONTRANA:\n.00\nIGV 18%\n13.22\nOP.INAFECTA :\n.00\nTOTAL 8/\n86,67\nOP.GRATUITA :\n00.\nIGV 18%\n13,22\n09\n:\n9\n*, 9/\n86,67\nCANT. PRODICTOS:\n6.\nCIAS POR'SU COMPRA ***\nCAJTIE5807\nLrE(C)\nCONTADO EN\nTZ.619303O *** GRACIAS POR SU COMPRA. ***\n3/10/23 11:15: 40 CAJTIE5807\nRa6: 300-0098331 EFE(C)\nCONTADO EN\n********\nblugión *s aplioabls para\nlgao y podra realisarse en\nipara gompras looales y 30\n*****************************\ntra compras don destino a\nEl cambio o devoluoion ee aplioable para\nprovinoias.\ndereotos de origun y podra realizarse on\n7 dias habiles para oompras lvoales y 30\nCANTE\ndaas babiles para oompras oon destino a\n0180050001381/8UNAT\n:provinolas.\nDPRESA DE LA\nV.RESUMEN\nONICA\nAUTORIZADO MEDIANTE\nEL DOCLDENTO\nRESOLUCION NR0,0180050001381/SUNAT\nTATIY.CM.E\nREPRESENTACION IMPRESA DE LA\nNO S PAGA H LA CHA DE SU\nFACTURA ELECTRONICA\nPARTIR DEL DIA SIGUIENTT SK\nPARA CONSULTAR EL DOCUMENTO\ns MORATORIO,CUYA TASA\nINGRESE.A WWW.TAILOY.COM.PE\n \nSI LA FACTURA NO SE PAGA EN LA FECHA DE. SU\nMONTO\n*NW\n,00\nVENCIMIENTO,A PARTIR DEL DLA SIGUIENTE SE\nXX\nGENERA INTERES MORATURIO,CUYA TASA\nES FIJADA POR LA SBS\nMONTO\n-\n-\n**** SALDÕ\n\nXxXXXXXXX\n-00\nXXOxXXXXXxX",
+  "meta": {
+    "filename": "F2.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20100049181",
+    "tipo_documento": "01",
+    "serie": "Mirar",
+    "numero": "2010004918",
+    "fecha_emision": null,
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": 73.45,
+      "igv": 13.22,
+      "total": 73.45
+    }
+  },
+  "items_detalle": [
+    "TAI LOY",
+    "TAI 10T S.A.",
+    "Ofio.Prinoipal:d. Mariann Odioo 153",
+    "no Odioio 153",
+    "Ito:Surquillo",
+    "Urb.Mirarloies.",
+    "Prov:Limi",
+    "Listrito:Surqllio",
+    "Dto:Luma",
+    "DireDOion;AV, LARcO 292-299",
+    "VILDA",
+    "DistritoIMIRAFLORES PrOV:LIMA",
+    "DOEO:LIMA",
+    "ICTRONICA",
+    "ANY BOCIEDAD ANONIMA",
+    "RAZ.SOCIAL:",
+    "PERI COMDANY S.A.C.",
+    ": PERI",
+    "COMPaNY SoCIELIAD AnOnIMA",
+    "CERRA DA",
+    "FERI COMPANYS.A.C.",
+    "HIL 16MM ALCO UNIV VIH",
+    "7766SS PIONER A4 2 ANIL 16MM BLCO UNIV VIN",
+    "r.GravadA:",
+    "UND.",
+    "EXONRADA:",
+    "INAFECTA",
+    "GRATUITA",
+    "CIAS POR'SU COMPRA ***",
+    "CAJTIE5807",
+    "LrE(C)",
+    "TZ.619303O *** GRACIAS POR SU COMPRA. ***",
+    "3/10/23 11:15: 40 CAJTIE5807",
+    "Ra6: 300-0098331 EFE(C)",
+    "blugión *s aplioabls para",
+    "lgao y podra realisarse en",
+    "ipara gompras looales y 30",
+    "tra compras don destino a",
+    "El cambio o devoluoion ee aplioable para",
+    "provinoias.",
+    "dereotos de origun y podra realizarse on",
+    "7 dias habiles para oompras lvoales y 30",
+    "daas babiles para oompras oon destino a",
+    "0180050001381/8UNAT",
+    ":provinolas.",
+    "DPRESA DE LA",
+    "V.RESUMEN",
+    "ONICA",
+    "AUTORIZADO MEDIANTE",
+    "EL DOCLDENTO",
+    "RESOLUCION NR0,0180050001381/SUNAT",
+    "TATIY.CM.E",
+    "REPRESENTACION IMPRESA DE LA",
+    "NO S PAGA H LA CHA DE SU",
+    "PARTIR DEL DIA SIGUIENTT SK",
+    "PARA CONSULTAR EL DOCUMENTO",
+    "s MORATORIO,CUYA TASA",
+    "INGRESE.A WWW.TAILOY.COM.PE",
+    "MONTO",
+    "VENCIMIENTO,A PARTIR DEL DLA SIGUIENTE SE",
+    "GENERA INTERES MORATURIO,CUYA TASA",
+    "ES FIJADA POR LA SBS",
+    "MONTO",
+    "**** SALDÕ",
+    "XxXXXXXXX",
+    "XXOxXXXXXxX"
+  ]
+}
+========================================
+Archivo: F3.jpeg
+{
+  "filename": "F3.jpeg",
+  "raw_text": "FACTURA ELECTRONICA\nPORACiON EXClUSiVA TEXTIl G & H S.A.C.\nRUC: 20609174570\nSEBASTIAN BARRANCA 1470 URB. EL PORVENIR\nE001-268\nfictoria - Lima - Lima\nForma de pago: Contado\ne de Emisión\n: 31/05/2023\nPeri Company Sociedad\nf(es)\n: ANONIMA CERRADA-PERI\nCOMPANY S.A.C.\n: 20602250483\nCAL SEBASTIAN BARRANCA 1470\nfecimiento del Emisor\n: UrB. El Porvenir lma-Cima-La\nVICTORIA\ne Moneda\n: Soles\nyación\n:\nCantidad\nUnidad Modide\nCódigo\nDescripción\nValor Unitario\nICBPER\n146.18\nKILOGRAMO\n2345\nFRANELA\n23.73\n0.00\nSub Total Ventas :\nS/3,468.85\nAnticipos ;\n$/0.00\nDescuentos :\npr de Venta de Operaciones Gratuitas :[S/0.00\nS/ 0.00\nValor Venta:\n$/ 3,468.85\nisc :\nS/ 0.00\nIGV :\nÇuatro Mil noventa y tres y 24100 Soles\nS/ 624.39\nIcbper :\nS/ 0.00\nOtros Cargos :\n$/0.00\nOtros Tributos :\n5/0.00\nMonto de redondeo :\n570.00\nImporte Total :\nS/4,093.24\nes una representación impresa de la factura electrónica, generada en el Sistema de SuNAT. Puede\nverificara utilizando su clave SOL.",
+  "meta": {
+    "filename": "F3.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20609174570",
+    "tipo_documento": "01",
+    "serie": "CTURA",
+    "numero": "2060917457",
+    "fecha_emision": "31/05/2023",
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": 3.468,
+      "igv": null,
+      "total": 3.468
+    }
+  },
+  "items_detalle": [
+    "PORACiON EXClUSiVA TEXTIl G & H S.A.C.",
+    "SEBASTIAN BARRANCA 1470 URB. EL PORVENIR",
+    "fictoria - Lima - Lima",
+    "e de Emisión",
+    "Peri Company Sociedad",
+    ": ANONIMA CERRADA-PERI",
+    "COMPANY S.A.C.",
+    "CAL SEBASTIAN BARRANCA 1470",
+    "fecimiento del Emisor",
+    ": UrB. El Porvenir lma-Cima-La",
+    "VICTORIA",
+    ": Soles",
+    "yación",
+    "Código",
+    "Descripción",
+    "ICBPER",
+    "KILOGRAMO",
+    "FRANELA",
+    "Anticipos ;",
+    "Descuentos :",
+    "pr de Venta de Operaciones Gratuitas :[S/0.00",
+    "isc :",
+    "Çuatro Mil noventa y tres y 24100 Soles",
+    "Icbper :",
+    "Otros Cargos :",
+    "Otros Tributos :",
+    "Monto de redondeo :",
+    "verificara utilizando su clave SOL."
+  ]
+}
+========================================
+Archivo: F4.jpeg
+{
+  "filename": "F4.jpeg",
+  "raw_text": "DISTRIBUDORA\nVALERO\nA\nR.U.C.\n20606870796\nSUCOmIRSIONIXL\nFactura Electrónica\nM\n ANTONIO BAZO NRO. 7B2\nF002-0011607\nUrB. el POrVENIr lIMA - Lima -La ViCtoria\n865774285\nSeñor(es)\n: Peri Company Sociedad Anonima Cerrada - peri Compade\n: 28/06/202;\nS.A.C.\nGula de Remisióno\nDirección\n: mZa e1 lote 10 A,h, simon Bol.\n:\nO/C\n.IVAR\n;\nForma de Pago\n:COnTADC\nR.U.C.\n: 20602250483\nCondicion Pago\n:CONTADO\nCANT.\nund, med,\nDESCR IPCI ON\nP. UNITARiO\nImpoRte\n0.50\nMILL\nBOLSAS PEAD, 14X19 TRATADA\n108.00\n54.00\n1.00\nUND\nPIQUETERA BBB\n5,00\n5.00\nSon: CincuentA Y NuevE CoN 00/1DD SoLES\nCuncelado\nSub total\nst\n50.00\nLima,\nDE\nDEL\nI.G.V 18 %\nsi\n9.00\nTOTAL:\ns/\n59.00\nApI/MHSngeOCA\nP\nRepresentación Impresa de la Factura Electrónica , para consustar el documento visita\nwww.grupovisualcont.com\nAutorizado mendiante la Resolución de Inlendencia Nro. 0340050007579\nResumen; mAptB7piMcRkShgvzrLSoQAYiy0=.",
+  "meta": {
+    "filename": "F4.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20606870796",
+    "tipo_documento": "01",
+    "serie": "DORA",
+    "numero": "2060687079",
+    "fecha_emision": null,
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "DISTRIBUDORA",
+    "VALERO",
+    "SUCOmIRSIONIXL",
+    "UrB. el POrVENIr lIMA - Lima -La ViCtoria",
+    "Señor(es)",
+    ": Peri Company Sociedad Anonima Cerrada - peri Compade",
+    "Gula de Remisióno",
+    "Dirección",
+    ": mZa e1 lote 10 A,h, simon Bol.",
+    ".IVAR",
+    "Forma de Pago",
+    ":COnTADC",
+    "Condicion Pago",
+    "und, med,",
+    "DESCR IPCI ON",
+    "P. UNITARiO",
+    "MILL",
+    "BOLSAS PEAD, 14X19 TRATADA",
+    "UND",
+    "PIQUETERA BBB",
+    "Cuncelado",
+    "Lima,",
+    "DEL",
+    "ApI/MHSngeOCA",
+    "www.grupovisualcont.com",
+    "Resumen; mAptB7piMcRkShgvzrLSoQAYiy0=."
+  ]
+}
+========================================
+Archivo: F5.jpeg
+{
+  "filename": "F5.jpeg",
+  "raw_text": "R.U.C. 20543319164\nWITJADIS\nFACTURA\nTodo para tn ampresa tectil\n001 Nº '010972\n   PIG CETEL -\nf\nCel.; 991830855/ 990153846 /997853535/www.myjadis.com / jadisperu@gmail.com\nSetor(ea):\nDirección:\nFechs:\nR.U.C\nN* de Gulo:\nP.UNIT.\nVALOR DE VENTA\nCANT.\nDESCRIPCION\n02 Hurbe\n01\nDTFe\n.\n1\nSUB TTAL\nSON:\nRAFICA\"JORGE PAUL\"\nTon mgy selida. la mmendonin m lay ingne o veclane in degeluaihn\nI.G.V.\n erge Pal ireno Vi\nCANCELADO\nHUC. 13468615643-Tel- 693-3564\n3e4 001 del 0001 =l f10D0\nTOTAL\nTR-4 M 120215\nn, .. d. .\nd\nJukI\nCorecon   \nClöverDritz\nJANOME\nSiRUBA\nSN\nSINGER\nSaw h\nCopia sin dereGhO Acredito FiscAl deL I.g.v.\nSUNAT\nTLTKO\nJANOME\nSIRUBA\nSINGER\n>m 0\nsunat: -\n'Copia Gin derecho a credito fiscal del lG.y.\"",
+  "meta": {
+    "filename": "F5.jpeg",
+    "category": "comprobante_fisico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20543319164",
+    "tipo_documento": "01",
+    "serie": "CTURA",
+    "numero": "2054331916",
+    "fecha_emision": null,
+    "moneda": null,
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "WITJADIS",
+    "Todo para tn ampresa tectil",
+    "PIG CETEL -",
+    "Cel.; 991830855/ 990153846 /997853535/www.myjadis.com / jadisperu@gmail.com",
+    "Setor(ea):",
+    "Dirección:",
+    "Fechs:",
+    "N* de Gulo:",
+    "02 Hurbe",
+    "DTFe",
+    "RAFICA\"JORGE PAUL\"",
+    "Ton mgy selida. la mmendonin m lay ingne o veclane in degeluaihn",
+    "erge Pal ireno Vi",
+    "HUC. 13468615643-Tel- 693-3564",
+    "3e4 001 del 0001 =l f10D0",
+    "JukI",
+    "Corecon",
+    "ClöverDritz",
+    "JANOME",
+    "SiRUBA",
+    "SINGER",
+    "Saw h",
+    "SUNAT",
+    "TLTKO",
+    "JANOME",
+    "SIRUBA",
+    "SINGER",
+    "sunat: -"
+  ]
+}
+========================================
+Archivo: F6.jpeg
+{
+  "filename": "F6.jpeg",
+  "raw_text": "SET.T,\nM & World InternatIonal S.A.c.\nR.U.C. 20515983423\non. Fr:,SaNRsto O, 0S (IS 1S),tA\nVC1OREA -LMALIMA\nSkiardi:cal prolongac:kon antorik) hazo nro11eo lrtB.\nV-T-W1(H11--8 () VRXN\nE_mail: ventas.inwordogmall.com\nvkamau\nTelefono: 01 474 2476\n..\nFACTURA ELECTRÓNICA\nF013-0004632\nCherte: PERI COMPANY S.A.C.\nRUC\n20602250483 -\nDirección:\n.Tlpo Pago: Contado\nMZA. EL LOTE, 1D A.H. SIMON BOLIVAR LIMA - LIMA-\nPUENTE PIEDRAPuenba Pera-Lma -Lma\nFecha:25/04/2022* Tipo Moneda: PEN\nGula de Remisión:\nCant\n•.\nU.M.\nP.UNIT IMPORTE!\nTEXTILE FABRIC TOO% RAYON\n:69.00 MTR\n7.00\n483.00\nTEXTILE FABRIC 100% RAYON\n1.70 MTR\n10.00\n17.00\nTotal Gravada: S/\n.423.73\nTotal Inafecta: S/\n0.00\nICBPER:\nS/\n0.00\nIGV 18%:\nS/\n76.27\nImporte Total: S/\n500.00\nSon:\nQuinientos con00/100 Soles\n*** ATENCIÓN, REVISAR LA MERCADERIA ANTES DE\n,CORTAR, NO SE ACEPTARÁ RECLAMOS\nPOSTERIORES***\nReprebentacion irapiesa de la lacture electiónica (Sin valo:\noficial generada desde el sistema facturador Sunat. Las\nfacturas puede verificarla\nutilizando su ciave sOl Tanbien puede consutar la validez\nde su compiobante electronico'en Sunat\nhtte/iwww.sunat xok.pelel-tt-iconvalicpe/ConsYaicps.hta\n.\n-",
+  "meta": {
+    "filename": "F6.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "20515983423",
+    "tipo_documento": "01",
+    "serie": "ono",
+    "numero": "2051598342",
+    "fecha_emision": "25/04/2022",
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": 423.73
+    }
+  },
+  "items_detalle": [
+    "SET.T,",
+    "M & World InternatIonal S.A.c.",
+    "on. Fr:,SaNRsto O, 0S (IS 1S),tA",
+    "VC1OREA -LMALIMA",
+    "V-T-W1(H11--8 () VRXN",
+    "E_mail: ventas.inwordogmall.com",
+    "vkamau",
+    "Telefono: 01 474 2476",
+    "Cherte: PERI COMPANY S.A.C.",
+    "Dirección:",
+    "MZA. EL LOTE, 1D A.H. SIMON BOLIVAR LIMA - LIMA-",
+    "PUENTE PIEDRAPuenba Pera-Lma -Lma",
+    "Gula de Remisión:",
+    "TEXTILE FABRIC TOO% RAYON",
+    ":69.00 MTR",
+    "TEXTILE FABRIC 100% RAYON",
+    "1.70 MTR",
+    "ICBPER:",
+    "Quinientos con00/100 Soles",
+    "*** ATENCIÓN, REVISAR LA MERCADERIA ANTES DE",
+    ",CORTAR, NO SE ACEPTARÁ RECLAMOS",
+    "POSTERIORES***",
+    "Reprebentacion irapiesa de la lacture electiónica (Sin valo:",
+    "utilizando su ciave sOl Tanbien puede consutar la validez",
+    "de su compiobante electronico'en Sunat",
+    "htte/iwww.sunat xok.pelel-tt-iconvalicpe/ConsYaicps.hta"
+  ]
+}
+========================================
+Archivo: F7.jpeg
+{
+  "filename": "F7.jpeg",
+  "raw_text": "Textil SebaS\n:•\nGarcia luIs esteban\nRUC:10414018713\nJR\nGIRIBALDI #515 TDA 98, 3CER P\nISO\nLA VICTORIA\nTif.969916118\nFACtURA dE VENTA eLECtróNIca\nNo. : F001-00000062\nFec. Em1s1ón;17/05/2022 11:24:03\nTipo Doc: RUC\nNo. : 20602250483\nCltente: peri Company Sooiedad A\nNonima Cerrada - peri Company S.\nA. C.\nDir: Lt. 1o mz, E1 A.H. Simon B\nOLIVAR - LIMA LIMA PUENTE PIEDRA\nCant. [Producto\nTota\n23.55 Franela negro\n824.25\nForma de pago : CoNTADO\nMedio de pago : EFECTIVO\nOP. Exonerada : S/ 0.00\nOP. Inafecta : S/ 0.00\nOP. Gravada : S/ 698.52\nI.G.V. : S/ 125.73\nTotal : S/ 824.25\nSon: Ochocientos veinticuatro c\non 25/100 soles\na\neo\nRepresentación impresa de la\n.\nFactura Electrónica\nEste documento puede ser validad\n:o en http://comprobantes, perufac\ntura. pe/modcoco/\n.\n.\n",
+  "meta": {
+    "filename": "F7.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "10414018713",
+    "tipo_documento": "01",
+    "serie": "LDI",
+    "numero": "1041401871",
+    "fecha_emision": "17/05/2022",
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": 698.52,
+      "igv": 125.73,
+      "total": 824.25
+    }
+  },
+  "items_detalle": [
+    "Textil SebaS",
+    "Garcia luIs esteban",
+    "GIRIBALDI #515 TDA 98, 3CER P",
+    "ISO",
+    "LA VICTORIA",
+    "Tif.969916118",
+    "Fec. Em1s1ón;17/05/2022 11:24:03",
+    "Cltente: peri Company Sooiedad A",
+    "Nonima Cerrada - peri Company S.",
+    "Dir: Lt. 1o mz, E1 A.H. Simon B",
+    "OLIVAR - LIMA LIMA PUENTE PIEDRA",
+    "Tota",
+    "23.55 Franela negro",
+    "Medio de pago : EFECTIVO",
+    "on 25/100 soles",
+    "Representación impresa de la",
+    "Este documento puede ser validad",
+    ":o en http://comprobantes, perufac",
+    "tura. pe/modcoco/"
+  ]
+}
+========================================
+Archivo: F8.jpeg
+{
+  "filename": "F8.jpeg",
+  "raw_text": "16/04/22\nLa Clave\nDe Iidia Luz Zaforas Gatsido\nAcanfores 290 Tde 13 Miraftores Lima Limn\nEmal;iecieve-dihotmall.com\nR.U.C. 10102759694\nVendedor\nFACTURA ELECTRONICA\nMARIELLA\nF001-0015890\nFecha\n16:04,2022\nPeri company sociedad Anonima cerrada - Peri\nSenoret\nCOMPANY S.A.C.\nMza E1 loie. j0 a.h. simon Bolivar\nDireocion\nR.U.C.\n20602250483\nP.Untt.\nTotal\nDescipción\nCod. Cant\n240.00\n80.00\n00830001\n0 FOLCOFEH14\nSon Sesenta con o0/ ioo soles\nEsta en una repisrentacton impresa del docum dnto +iectronicu.\nEl edqufriente o u#ubrto puede consuitarou vaildez en Sunat Vurtual.\nu sunat gob.pe: on operaclones sin claw Sol/ Conaulta de walidez del CPE\nIaborado por Eisteme de Emlslan Elactronice facturador Sunat (SEE-$F§) verg\nAutarizado mediantesmoluclon Nre 165-2017,; 8UNAT\n6/\n50.85\nOp. Grabada\nOp. Exonerada\nOp. Inarecta\n5/\nDescuento\n9.15\n184\n$/\n'I.G.v.\ns/\nIC8pER.\n§/\n60.00\n4\nPrecto Total\nNo sE AceptaN CamBiOs Ni dEvolUCioneS",
+  "meta": {
+    "filename": "F8.jpeg",
+    "category": "comprobante_electronico"
+  },
+  "data_sunat": {
+    "ruc_emisor": "10102759694",
+    "tipo_documento": "01",
+    "serie": "res",
+    "numero": "1010275969",
+    "fecha_emision": null,
+    "moneda": "PEN",
+    "importes": {
+      "base_imponible": null,
+      "igv": null,
+      "total": null
+    }
+  },
+  "items_detalle": [
+    "La Clave",
+    "De Iidia Luz Zaforas Gatsido",
+    "Acanfores 290 Tde 13 Miraftores Lima Limn",
+    "Emal;iecieve-dihotmall.com",
+    "MARIELLA",
+    "Peri company sociedad Anonima cerrada - Peri",
+    "Senoret",
+    "COMPANY S.A.C.",
+    "Mza E1 loie. j0 a.h. simon Bolivar",
+    "Direocion",
+    "P.Untt.",
+    "Descipción",
+    "0 FOLCOFEH14",
+    "Esta en una repisrentacton impresa del docum dnto +iectronicu.",
+    "El edqufriente o u#ubrto puede consuitarou vaildez en Sunat Vurtual.",
+    "u sunat gob.pe: on operaclones sin claw Sol/ Conaulta de walidez del CPE",
+    "Autarizado mediantesmoluclon Nre 165-2017,; 8UNAT",
+    "Descuento",
+    "IC8pER.",
+    "No sE AceptaN CamBiOs Ni dEvolUCioneS"
+  ]
+}
+========================================
